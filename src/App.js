@@ -3,6 +3,8 @@ import Data from "./Pages/Data"
 import Srilekha from "./Pages/Srilekha"
 import Contact from "./Pages/Contact"
 import { Route, Routes } from "react-router-dom"
+import "./Style.css"
+
 
 function App() {
   return (
